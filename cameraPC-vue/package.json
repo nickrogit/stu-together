@@ -14,7 +14,7 @@
     "build": "node build/build.js"
   },
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.21.1",
     "babel-plugin-syntax-dynamic-import": "^6.18.0",
     "dayjs": "^1.6.9",
     "font-awesome": "^4.7.0",
